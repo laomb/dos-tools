@@ -1,0 +1,4 @@
+RM/obj
+RM/obj/*
+RM/*.map
+RM/*.exe
